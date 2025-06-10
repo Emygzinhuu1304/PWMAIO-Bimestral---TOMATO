@@ -1,2 +1,2 @@
-# PWMAIO-Bimestral---TOMATO
-Esse é nosso trabalho bimestral, usando como referencia o aplicativo mobile "TOMATO" que o adaptamos e modificamos para uso em computador.
+# PWMAIO-Bimestral---FÍLOSOFIA
+Esse é nosso trabalho bimestral, usando como referencia a matéria de Fílosofia e dar um  pouco de profundida básica e ajudar nos estudos.
